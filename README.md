@@ -9,4 +9,4 @@ Welcome to this Python beginners tutorial.
  * Python is a fun and easy-to-learn programming language, and with practice, you’ll be able to apply your knowledge effectively.
    
    # 🚀 Enjoy your learning journey with Python!
-   
+   👉 [Click here to go to 0 ⚙️ Setup the Environment](0. ⚙️ Setup the Environment.md)
