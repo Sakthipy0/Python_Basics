@@ -1,0 +1,34 @@
+# 🐍  Your First Python Code  
+
+Hope you have completed all the steps from the **Setup Environment** tutorial.  
+Now, you should have an **Untitled Jupyter Notebook** opened (like the image above).  
+
+---
+
+## 📓 Understanding Jupyter Notebook Cells  
+In Jupyter, work is done inside **cells**.  
+There are two main types of cells:  
+
+- **Code Cell** → Used to write and execute Python code.  
+- **Markdown Cell** → Used to write text, notes, and explanations.  
+
+---
+
+## ➕ Creating a New Cell  
+- Click on **`+ Code`** → This will create a new **Code Cell** below the current one.  
+- You can add multiple cells and run them individually.  
+
+---
+
+## 🖥️ Writing Your First Python Program  
+Inside the new **Code Cell**, type the following code:  
+
+```python
+print("Hello, World!")
+
+Then press Shift + Enter (or click ▶ Run) to execute it.
+
+✅ Output will be:
+
+Hello, World!
+
