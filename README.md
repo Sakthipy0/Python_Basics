@@ -10,4 +10,4 @@ Welcome to this Python beginners tutorial.
    
    # 🚀 Enjoy your learning journey with Python!
    
-   👉 [Click here to go to 0 ⚙️ Setup the Environment](https://github.com/your-username/your-repo/blob/main/step1.md)
+   👉 [Click here to go to 0 ⚙️ Setup the Environment](https://github.com/Sakthipy0/Python_Professional_Guide_for_Beginners/blob/8c5da33a5862421a515be346d3455a6424676636/0.%20%E2%9A%99%EF%B8%8F%20Setup%20the%20Environment.md)
